@@ -5,9 +5,17 @@ Final image, with many rendering techniques displayed.
 
 ![final.png](final.png)
 
-Bump Mapping.
+Perlin Noise used to perturb colour and normals.
 
-![bump.png](bump.png)
+![perlin.png](perlin.png) 
+
+Refractive materials.
+
+![refraction2.png](refraction2.png)
+
+Reflective surfaces.
+
+![reflection2.png](reflection2.png) 
 
 Constructive Solid Geometry with reflective surfaces and meshes.
 
@@ -15,14 +23,6 @@ Constructive Solid Geometry with reflective surfaces and meshes.
 
 ![csg_mesh.png](csg_mesh.png)
 
-Perlin Noise used to perturb colour and normals.
+Bump Mapping.
 
-![perlin.png](perlin.png) 
-
-Reflective surfaces.
-
-![reflection2.png](reflection2.png) 
-
-Refractive materials.
-
-![refraction2.png](refraction2.png)
+![bump.png](bump.png)
