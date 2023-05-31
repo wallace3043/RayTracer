@@ -21,8 +21,8 @@ Perlin Noise used to perturb colour and normals.
 
 Reflective surfaces.
 
-![reflection.png](reflection.png) 
+![reflection2.png](reflection2.png) 
 
 Refractive materials.
 
-![refraction.png](refraction.png)
+![refraction2.png](refraction2.png)
