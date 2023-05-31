@@ -1,14 +1,21 @@
 # RayTracer
 This repository shows off a series of sample ray tracing images rendered by a ray tracer for the final project of CS488: Intro to Computer Graphics.
 
-`final.png`: Final image, with many rendering techniques displayed.
+Final image, with many rendering techniques displayed.
+![final.png](final.png)
 
-`bump.png`: Bump Mapping.
+Bump Mapping.
+![bump.png](bump.png)
 
-`csg.png`, `csg_mesh.png`: Constructive Solid Geometry with reflective surfaces and meshes.
+Constructive Solid Geometry with reflective surfaces and meshes.
+![csg.png](csg.png)
+![csg_mesh.png](csg_mesh.png)
 
-`perlin.png`: Perlin Noise used to perturb colour and normals.
+Perlin Noise used to perturb colour and normals.
+![perlin.png](perlin.png) 
 
-`reflection.png`: Reflective surfaces.
+Reflective surfaces.
+![reflection.png](reflection.png) 
 
-`refraction.png`: Refractive materials.
+Refractive materials.
+![refraction.png](refraction.png)
